@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @Aks206
-- 👀 I’m interested in learning python, javascript
-- 🌱 I’m currently learning python
-..
 
-<!---
-Aks206/Aks206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Akshatha 👋
+
+🎓 Lifelong learner
+💻 Interested in Product, Business analyst, development of AI tools  
+
+## 🛠 Tech Stack
+- Languages: Python, SQL, Vibe coding, Claude
+- Tools: GitHub, Jira, SonarQube, Claudecode
+- Concepts: Clean Code, Testing, CI/CD
+
+## 🌱 Currently learning
+- Cloud basics, Data basics
+- Agentic AI coding
+
+## 📫 Connect with me
+- LinkedIn: link
+
+## 📌 Featured Projects
+- Project Name – short description + link
+- Project Name – short description + link
+
